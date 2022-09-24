@@ -1,0 +1,63 @@
+#titulo{
+font-family: helvetica,sans-serif;
+color: navy;
+font-weight: bold;
+}
+
+#tabla{
+border-style: dotted;
+border-color: lightblue;
+border: 1px;
+}
+
+#nuevo{
+color: white;
+font-family: helvetica, sans-serif;
+font-weight: bold;
+background-color: lightgreen;
+
+}
+
+.editar{
+color: white;
+background-color: blue;
+font-family: helvetica, sans-serif;
+font-weight: bold;
+margin-right: 0px;
+}
+
+.eliminar{
+    color: white;
+    background-color: darkred;
+    font-family: helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: 0px;
+}
+
+.generico{
+background-color: lightgray;
+color:black;
+font-weight: bold;
+height: 50px;
+width: 100px;
+border-radius: 5%;
+border-style: groove;
+}
+
+#btn-1{
+    background-color: gray;
+    color: white;
+    border:1px;
+    padding: 10px;
+    margin-left: 5px;
+    margin-top: 15px;
+}
+
+#btn-2{
+    background-color: gray;
+    color: white;
+    border:1px;
+    padding: 10px;
+    margin-left: 5px;
+    margin-top: 15px;
+}
